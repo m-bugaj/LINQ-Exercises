@@ -1,0 +1,15 @@
+C:\Users\BUGI\Desktop\INFA\!SEM2\.Net\Lab4\linqLab\linqLab\bin\Debug\net8.0\linqLab.exe
+C:\Users\BUGI\Desktop\INFA\!SEM2\.Net\Lab4\linqLab\linqLab\bin\Debug\net8.0\linqLab.deps.json
+C:\Users\BUGI\Desktop\INFA\!SEM2\.Net\Lab4\linqLab\linqLab\bin\Debug\net8.0\linqLab.runtimeconfig.json
+C:\Users\BUGI\Desktop\INFA\!SEM2\.Net\Lab4\linqLab\linqLab\bin\Debug\net8.0\linqLab.dll
+C:\Users\BUGI\Desktop\INFA\!SEM2\.Net\Lab4\linqLab\linqLab\bin\Debug\net8.0\linqLab.pdb
+C:\Users\BUGI\Desktop\INFA\!SEM2\.Net\Lab4\linqLab\linqLab\obj\Debug\net8.0\linqLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BUGI\Desktop\INFA\!SEM2\.Net\Lab4\linqLab\linqLab\obj\Debug\net8.0\linqLab.AssemblyInfoInputs.cache
+C:\Users\BUGI\Desktop\INFA\!SEM2\.Net\Lab4\linqLab\linqLab\obj\Debug\net8.0\linqLab.AssemblyInfo.cs
+C:\Users\BUGI\Desktop\INFA\!SEM2\.Net\Lab4\linqLab\linqLab\obj\Debug\net8.0\linqLab.csproj.CoreCompileInputs.cache
+C:\Users\BUGI\Desktop\INFA\!SEM2\.Net\Lab4\linqLab\linqLab\obj\Debug\net8.0\linqLab.sourcelink.json
+C:\Users\BUGI\Desktop\INFA\!SEM2\.Net\Lab4\linqLab\linqLab\obj\Debug\net8.0\linqLab.dll
+C:\Users\BUGI\Desktop\INFA\!SEM2\.Net\Lab4\linqLab\linqLab\obj\Debug\net8.0\refint\linqLab.dll
+C:\Users\BUGI\Desktop\INFA\!SEM2\.Net\Lab4\linqLab\linqLab\obj\Debug\net8.0\linqLab.pdb
+C:\Users\BUGI\Desktop\INFA\!SEM2\.Net\Lab4\linqLab\linqLab\obj\Debug\net8.0\linqLab.genruntimeconfig.cache
+C:\Users\BUGI\Desktop\INFA\!SEM2\.Net\Lab4\linqLab\linqLab\obj\Debug\net8.0\ref\linqLab.dll
