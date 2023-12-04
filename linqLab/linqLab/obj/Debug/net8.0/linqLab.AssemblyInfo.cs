@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("linqLab")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fffe011d8aa43ef86ba7c0a5cce5374750808109")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54e64cdc106b4028925fb30b6870c105da5410da")]
 [assembly: System.Reflection.AssemblyProductAttribute("linqLab")]
 [assembly: System.Reflection.AssemblyTitleAttribute("linqLab")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
